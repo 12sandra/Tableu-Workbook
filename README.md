@@ -6,12 +6,14 @@ An interactive Tableau dashboard was developed to help HR teams and management m
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze overall employee attrition rate
 - Identify departments and job roles with high attrition
 - Understand demographic patterns (age, marital status, education)
 - Study attrition trends over time
 - Provide actionable HR insights and recommendations
+
+
 
 ---
 
